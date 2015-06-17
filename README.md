@@ -1,6 +1,6 @@
 # Augmented Reality For Three.js
 
-This demo shows how to get augmented reality using only web technologies.
+This demo shows how to get augmented reality using only web technologies. 
 
 # How To Run The Demo ?
 - put a browser http://jeromeetienne.github.io/arplayerforthreejs/examples/basic.html
